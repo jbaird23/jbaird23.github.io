@@ -10,7 +10,7 @@ Cliodynamicist (NOV 2026 - Present)
 ## Projects
 
 ### Consistency and statistics analysis throughout Genocides
-  - Utilizing R programming language, existing statistics, primary source data, and ethical use of artificial intelligence (Claude and Gemini) to map data of deaths, transport, and other data from genocides to compile advanced data on consistencies and data trees.
+  - Utilizing existing statistics and primary source data to map data of deaths, transport, and other data from genocides to compile advanced data on consistencies and data trees.
 
 ## Working Papers
 
