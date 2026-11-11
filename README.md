@@ -1,5 +1,3 @@
-# josephjbaird.github.io
-
 # Cliodynamicist
 
 ### Affiliation
