@@ -1,4 +1,4 @@
-# Cliodynamicist
+# Historian
 
 ## Affiliation
 Independent
